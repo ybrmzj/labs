@@ -1,11 +1,11 @@
 sort1 uses: bubble sort
 
-How do you know?: TODO
+How do you know?: sorted and reversed time diff
 
 sort2 uses: merge sort
 
-How do you know?: TODO
+How do you know?: less time
 
 sort3 uses: selection sort
 
-How do you know?: TODO
+How do you know?: more time
